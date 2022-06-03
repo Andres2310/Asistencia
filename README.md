@@ -8,14 +8,15 @@ Web para asistencia en php todavía sin concluir Hecho en HTML/CSS con boostrap 
 ![image](https://user-images.githubusercontent.com/14057619/171957250-5f3d917d-d40c-48cb-9cae-6c98195eaf3a.png)
 
 # Pantalla de la empresa y Kardex de un empleado
-Esta pantalla esta inconclusa y solo es demostrativa
+Esta pantalla esta inconclusa y solo es demostrativa pero ya cambia el nombre segun la sucursal y el empleado
+
 ![image](https://user-images.githubusercontent.com/14057619/171954046-13fa5cb2-c5f9-4dec-ad31-5385fb9a6c54.png)
 ## Muestra de como se veria el kardex de un empleado
 ![image](https://user-images.githubusercontent.com/14057619/171957455-f6d57942-1831-43ec-b352-89eb7e92fc91.png)
 
 # Pantalla para añadir y ver el personal total de la empresa
 ![image](https://user-images.githubusercontent.com/14057619/171957793-fbb44eb0-1523-461f-89df-1422a8a179e6.png)
-##Modal para agregar al personal
+## Modal para agregar al personal
 ![image](https://user-images.githubusercontent.com/14057619/171958076-09a3d424-0a2a-438e-a4bd-469b728728ec.png)
 
 
